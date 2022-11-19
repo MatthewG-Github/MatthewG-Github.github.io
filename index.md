@@ -10,6 +10,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Practice Link to This Same Page](https://matthewg-github.github.io/)
 
+[Practice Link to Google](https://www.google.com/)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
