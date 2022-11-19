@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Practice Link to Another Page](./google.com).
+[Practice Link to Another Page](https://matthewg-github.github.io/)).
 
 There should be whitespace between paragraphs.
 
