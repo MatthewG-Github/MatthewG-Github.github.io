@@ -1,7 +1,7 @@
 ---
 layout: default
-title: New Title
-description: New Description
+title: First Title Change
+description: Descriptions can be changed
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
