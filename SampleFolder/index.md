@@ -9,4 +9,4 @@ description: A practice linked page with Additional item since main has image
 Here is content from my CTBA Course
 - [Linking to HTML Jupyter Notebook](HTMLTimeSeriesDecomposition.html)
 - 
-- [Linking Straight to Jupyter Notebook](Generic Practice Notebook.ipynb)
+- [Linking Straight to Jupyter Notebook](IPYNBTimeSeriesDecomposition.ipynb)
