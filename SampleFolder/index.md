@@ -10,3 +10,7 @@ Here is content from my CTBA Course
 - [Linking to HTML Jupyter Notebook](HTMLTimeSeriesDecomposition.html)
 - 
 - [Linking Straight to Jupyter Notebook](IPYNBTimeSeriesDecomposition.ipynb)
+
+
+Linking to Another Repository
+[Sample Repository](https://github.com/drinfernoo/repository.example)
