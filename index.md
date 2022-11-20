@@ -6,7 +6,7 @@ description: Descriptions can be changed
 
 This is a first attempt at linking to different pages and within those pages, linking to a jupyter Notebook
 
--[To Practice Folder](/Sample Folder/index.md)
+-[To Practice Folder](/SampleFolder/index.md)
 
 
 
