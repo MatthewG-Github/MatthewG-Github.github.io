@@ -10,7 +10,7 @@ This is a first attempt at linking to different pages and within those pages, li
 
 
 
-![AI Made Picture](/Images/ DALL·E Image of Dog.png)
+![AI Made Picture](/Images /DALL·E Image of Dog.png)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
