@@ -8,4 +8,4 @@ description: A practice linked page with Additional item since main has image
 
 Here is content from my CTBA Course
 - [Alt Text if Item cannot be found](HTMLTimeSeriesDecomposition.html)
--[Linking Straight to Jupyter Notebook](Generic Practice Notebook.ipynb)
+- [Linking Straight to Jupyter Notebook](Generic Practice Notebook.ipynb)
